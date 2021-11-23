@@ -28,3 +28,5 @@
 - [ ]  floppy disk
 - [x]  colorful
 - [ ]  file (not sure about that)
+
+Some of them are a bit rough and need some polishing
