@@ -23,7 +23,7 @@
 - [x]  loading animation
 - [ ]  windows loading animation
 - [x]  coin eyes
-- [ ]  portal eyes
+- [x]  portal eyes
 - [ ]  spinning cd
 - [ ]  floppy disk
 - [x]  colorful
